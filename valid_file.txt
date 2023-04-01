@@ -1,0 +1,2 @@
+This file has valid contents -- should still be readable even with the invalid one, since we'll also copy
+it from Git's object store.

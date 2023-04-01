@@ -1,0 +1,2 @@
+This is some content that would like to be able to read back, later on.
+The filename of this file is mangled, which normally prevents the git checkout operation.
